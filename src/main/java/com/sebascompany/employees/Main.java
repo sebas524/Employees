@@ -32,7 +32,7 @@ public class Main {
 
         int totalSalaries = 0;
 
-        Employee employee = null;
+        IEmployee employee = null;
 
         while (peopleMat.find()) {
 
